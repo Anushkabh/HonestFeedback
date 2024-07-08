@@ -59,16 +59,16 @@ function VerificationEmail(props: vericationEmail) {
                             <Row>
                                 <Text className="text-xs">
                                     This message was produced and distributed by{" "}
-                                    <Link href="https://hruthikportfolio.netlify.app/">
+                                    <Link href="https://Anushkabhportfolio.netlify.app/">
                                         GetFeedback
                                     </Link>{" "}
                                     . All rights reserved.{" "}
-                                    <Link href="https://hruthikportfolio.netlify.app/">
+                                    <Link href="https://Anushkabhportfolio.netlify.app/">
                                         GetFeedback
                                     </Link>{" "}
                                     is a registered trademark of{" "}
-                                    <Link href="https://hruthikportfolio.netlify.app/">
-                                        <strong>Hruthik .</strong>
+                                    <Link href="https://Anushkabhportfolio.netlify.app/">
+                                        <strong>Anushkabh .</strong>
                                     </Link>
                                 </Text>
                             </Row>

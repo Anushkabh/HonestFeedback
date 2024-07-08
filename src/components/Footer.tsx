@@ -11,10 +11,10 @@ function Footer() {
                     © {year} Get Feedback by&nbsp;
                     <Link
                         target="_blank"
-                        href={"https://hruthikportfolio.netlify.app/"}
+                        href={"https://Anushkabhportfolio.netlify.app/"}
                         className="font-semibold cursor-pointer hover:underline"
                     >
-                        Hruthik
+                        Anushkabh
                     </Link>
                 </p>
                 <p>. All rights reserved.</p>
